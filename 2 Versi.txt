@@ -1,0 +1,3 @@
+Tolong dicoba 2 2 nya mas eko, yang mana yang bisa.
+FIle wav diletakkan di desktop, berdampingan dengan gui.py
+Maaf kalo ternyata error, library python windows tidak sama dengan python raspi 
